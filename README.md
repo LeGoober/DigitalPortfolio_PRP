@@ -19,7 +19,7 @@
 ### 📂 Evidence
 - Link to CV Markdown on GitHub
 - ![CV preview](/images/CV_sub_image.png)
-- ![CV preview 2](/T4_Digital_Portfolio/images/CV_sub_image_2.png)
+- ![CV preview 2](/images/CV_sub_image_2.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -44,9 +44,9 @@ I am now more confident that my CV effectively showcases my potential and is str
 
 ### 📂 Evidence
 - Screenshot of submission on Blackboard and job application portals
-- ![Submission screenshot](/T4_Digital_Portfolio/images/CV_sub_image_3.png)
-- ![Job listing: Intermediate Java Software Developer](/T4_Digital_Portfolio/images/Intermediate_Java_Software_Developer.png)
-- ![Job listing: IT Lecturer / Software Engineer (Datafin)](/T4_Digital_Portfolio/images/IT_Lecturer_Software_Engineer_Datafin.png)
+- ![Submission screenshot](/images/CV_sub_image_3.png)
+- ![Job listing: Intermediate Java Software Developer](/images/Intermediate_Java_Software_Developer.png)
+- ![Job listing: IT Lecturer / Software Engineer (Datafin)](/images/IT_Lecturer_Software_Engineer_Datafin.png)
 - Email confirmations or portfolio submissions
 
 ### 💭 Reflection (STAR Technique)
@@ -68,7 +68,7 @@ After receiving feedback from peers and guidance counsellors, I improved the CV 
 ## Personality Assessment
 
 ### 📂 Evidence
-- ![Personality assessment screenshot](/T4_Digital_Portfolio/images/Personality_Assessment_image.png)
+- ![Personality assessment screenshot](/images/Personality_Assessment_image.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -89,8 +89,8 @@ I found that, as an introverted–extrovert, I thrive in independent, creative w
 ## Career Counselling
 
 ### 📂 Evidence
-- ![Career counselling 1](/T4_Digital_Portfolio/images/Career_Counselling_sub_image.png)
-- ![Career counselling 2](/T4_Digital_Portfolio/images/Career_Counselling_sub_image_2.png)
+- ![Career counselling 1](/images/Career_Counselling_sub_image.png)
+- ![Career counselling 2](/images/Career_Counselling_sub_image_2.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -112,10 +112,10 @@ I identified strengths that suit roles such as front-end or back-end development
 
 ### 📂 Evidence
 - GitHub contributions chart
-- ![Skills chart](/T4_Digital_Portfolio/images/image.png)
+- ![Skills chart](/images/image.png)
 - Screenshots of badges from LinkedIn Learning
-- ![Badge 1](/T4_Digital_Portfolio/images/image-1.png)
-- ![Badge 2](/T4_Digital_Portfolio/images/image-2.png)
+- ![Badge 1](/images/image-1.png)
+- ![Badge 2](/images/image-2.png)
 - [My Skills Matrix](#)
 
 ### 💭 Reflection (STAR Technique)
@@ -137,7 +137,7 @@ I discovered I enjoy design-thinking and problem-solving through code; I am curr
 ## Business Communication
 
 ### 📂 Evidence
-- ![Business communication](/T4_Digital_Portfolio/images/image-3.png)
+- ![Business communication](/images/image-3.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -158,7 +158,7 @@ The main result is acknowledging exactly the manner in which how to act when cer
 ## Interview Skills
 
 ### 📂 Evidence
-- ![Interview skills](/T4_Digital_Portfolio/images/image-4.png)
+- ![Interview skills](/images/image-4.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -179,7 +179,7 @@ The result is then being better prepared for an interview scenario where you hav
 ## Mock Interview
 
 ### 📂 Evidence
-- ![Mock interview](/T4_Digital_Portfolio/images/image-5.png)
+- ![Mock interview](/images/image-5.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -200,7 +200,7 @@ The experience allowed me to identify areas where I could improve — such as re
 ## Professional Networking
 
 ### 📂 Evidence
-- ![Professional networking](/T4_Digital_Portfolio/images/image-5.png)
+- ![Professional networking](/images/image-5.png)
 
 ### 💭 Reflection (STAR Technique)
 
@@ -221,7 +221,7 @@ Through this activity, I've developed a stronger professional presence and a gro
 ## Workplace Etiquette
 
 ### 📂 Evidence
-- ![Workplace etiquette](/T4_Digital_Portfolio/images/image-6.png)
+- ![Workplace etiquette](/images/image-6.png)
 
 ### 💭 Reflection (STAR Technique)
 
