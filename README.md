@@ -18,7 +18,7 @@
 
 ### 📂 Evidence
 - Link to CV Markdown on GitHub
-- ![CV preview](/T4_Digital_Portfolio/images/CV_sub_image.png)
+- ![CV preview](/images/CV_sub_image.png)
 - ![CV preview 2](/T4_Digital_Portfolio/images/CV_sub_image_2.png)
 
 ### 💭 Reflection (STAR Technique)
